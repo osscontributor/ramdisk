@@ -1,0 +1,7 @@
+The ramdisk.sh shell script included in this project may
+be used to create a ramdisk on OS X (probably other Unix
+based systems as well).
+
+A short screencast has been recorded which demonstrates
+usage of the script.  The screencast is available at
+http://s3.amazonaws.com/jeffscreencasts/ramdisk.mov.
